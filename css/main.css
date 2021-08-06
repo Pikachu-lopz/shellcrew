@@ -121,7 +121,7 @@ body {
     border:none;
 }
 #sidenav button:hover {
-    color: #442e00;
+    color: #ff0000;
 }
 
 @media screen and (max-height: 450px) {
