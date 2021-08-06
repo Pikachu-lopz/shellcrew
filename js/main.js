@@ -43,7 +43,7 @@ var configs = (function () {
         language: "Language",
         value_token: "<value>",
         host: "shellcrew.com",
-        user: "guest",
+        user: "demon",
         is_root: false,
         type_delay: 20
     };
