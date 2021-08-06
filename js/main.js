@@ -36,7 +36,7 @@ var configs = (function () {
         usage: "Usage",
         file: "file",
         file_not_found: "File '<value>' not found.",
-        username: "demon",
+        username: "user",
         hostname: "Host",
         platform: "Platform",
         accesible_cores: "Accessible cores",
