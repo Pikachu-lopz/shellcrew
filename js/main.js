@@ -26,11 +26,7 @@ var configs = (function () {
         rmdir_help: "Remove directory, this command will only work if the folders are empty.",
         touch_help: "Change file timestamps. If the file doesn't exist, it's created an empty one.",
         sudo_help: "Execute a command as the superuser.",
-        welcome: "Hello friend.... \nHello Friend....... \nI See u are in our shell crew server. In order to reach our site u must know about basic Linux Commands.\n_          _ _
- ___| |__   ___| | |   ___ _ __ _____      __
-/ __| '_ \ / _ \ | |  / __| '__/ _ \ \ /\ / /
-\__ \ | | |  __/ | | | (__| | |  __/\ V  V /
-|___/_| |_|\___|_|_|  \___|_|  \___| \_/\_/ .\nIn order to skip text rolling, double click/touch anywhere.\nsigning out.........",
+        welcome: "Hello friend.... \nHello Friend....... \nI See u are in our shell crew server. In order to reach our site u must know about basic Linux Commands.\nIn order to skip text rolling, double click/touch anywhere.\nsigning out.........",
         internet_explorer_warning: "NOTE: I see you're using internet explorer, this website won't work properly.",
         welcome_file_name: "welcome_message.txt",
         invalid_command_message: "<value>: command not found.",
