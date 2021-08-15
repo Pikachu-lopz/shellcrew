@@ -83,8 +83,8 @@ body {
 }
 
 #sidenav {
-    height: 100%;
-    width: 50px;
+    height: 10%;
+    width: 0px;
     position: fixed;
     z-index: 9;
     top: 0;
